@@ -1,25 +1,29 @@
 \babel@toc {spanish}{}
 \contentsline {section}{\numberline {1}PROBLEMA DE INVESTIGACIÓN}{6}{section.1.1}
 \contentsline {subsection}{\numberline {1.1}Planteamiento del Problema}{6}{subsection.1.1.1}
-\contentsline {subsection}{\numberline {1.2}Formulación del problema}{9}{subsection.1.1.2}
-\contentsline {subsection}{\numberline {1.3}Justificación y aportes}{9}{subsection.1.1.3}
-\contentsline {subsection}{\numberline {1.4}Objetivos de la Investigación}{9}{subsection.1.1.4}
-\contentsline {section}{\numberline {2}MARCO METODOLÓGICO}{9}{section.1.2}
-\contentsline {subsection}{\numberline {2.1}Antecedentes de la investigación}{9}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {2.2}Bases teóricas de las variables}{9}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {2.3}Definición de términos básicos}{9}{subsection.1.2.3}
-\contentsline {section}{\numberline {3}METODOS Y MATERIALES}{9}{section.1.3}
-\contentsline {subsection}{\numberline {3.1}Hipótesis de la investigación}{9}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {3.2}Variables}{9}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {3.3}Operacionalizacion de la variable}{9}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {3.4}Diseño de la investigación}{9}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {3.5}Población, muestra y muestreo}{9}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {3.6}Técnicas e instrumentos de recolección de datos}{9}{subsection.1.3.6}
-\contentsline {subsection}{\numberline {3.7}Métodos de análisis de datos}{9}{subsection.1.3.7}
-\contentsline {subsection}{\numberline {3.8}Propuesta de valor}{9}{subsection.1.3.8}
-\contentsline {subsection}{\numberline {3.9}Aspectos deontológicos}{9}{subsection.1.3.9}
-\contentsline {section}{\numberline {4}ASPECTOS ADMINISTRATIVOS}{9}{section.1.4}
-\contentsline {subsection}{\numberline {4.1}Presupuesto}{9}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {4.2}Cronograma de actividades}{9}{subsection.1.4.2}
-\contentsline {section}{\numberline {5}REFERENCIAS}{9}{section.1.5}
+\contentsline {subsection}{\numberline {1.2}Formulación del problema}{10}{subsection.1.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Problema General}{10}{subsubsection.1.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Problemas Especificos}{10}{subsubsection.1.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Justificación y aportes}{10}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.4}Objetivos de la Investigación}{10}{subsection.1.1.4}
+\contentsline {subsubsection}{\numberline {1.4.1}Objetivo General}{10}{subsubsection.1.1.4.1}
+\contentsline {subsubsection}{\numberline {1.4.2}Objetivos Especificos}{10}{subsubsection.1.1.4.2}
+\contentsline {section}{\numberline {2}MARCO METODOLÓGICO}{11}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Antecedentes de la investigación}{11}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Bases teóricas de las variables}{11}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Definición de términos básicos}{11}{subsection.1.2.3}
+\contentsline {section}{\numberline {3}METODOS Y MATERIALES}{11}{section.1.3}
+\contentsline {subsection}{\numberline {3.1}Hipótesis de la investigación}{11}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {3.2}Variables}{11}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {3.3}Operacionalizacion de la variable}{11}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {3.4}Diseño de la investigación}{11}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {3.5}Población, muestra y muestreo}{11}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {3.6}Técnicas e instrumentos de recolección de datos}{11}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {3.7}Métodos de análisis de datos}{11}{subsection.1.3.7}
+\contentsline {subsection}{\numberline {3.8}Propuesta de valor}{11}{subsection.1.3.8}
+\contentsline {subsection}{\numberline {3.9}Aspectos deontológicos}{11}{subsection.1.3.9}
+\contentsline {section}{\numberline {4}ASPECTOS ADMINISTRATIVOS}{11}{section.1.4}
+\contentsline {subsection}{\numberline {4.1}Presupuesto}{11}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {4.2}Cronograma de actividades}{11}{subsection.1.4.2}
+\contentsline {section}{\numberline {5}REFERENCIAS}{11}{section.1.5}
 \contentsfinish 
